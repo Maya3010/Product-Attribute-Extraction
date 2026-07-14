@@ -1,0 +1,9 @@
+Attribute,Accuracy,Precision,Recall,F1
+category,0.9,0.9333,0.9,0.9
+silhouette,1.0,1.0,1.0,1.0
+fabric,0.7,0.8333,0.7,0.7167
+neckline,1.0,1.0,1.0,1.0
+sleeve,0.7,0.7,0.7,0.7
+length,0.8,0.675,0.8,0.7238
+embellishment,0.3,0.2143,0.3,0.225
+color,0.5,0.5,0.5,0.5
